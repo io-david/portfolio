@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: osty Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://theme.madsparrow.me/osty
+Data file = /home/admin/web/theme.madsparrow.me/public_html/osty/wp-content/uploads/2025/04/demo-content-import-file_2025-04-03__07-16-29.xml
+Widget file = /home/admin/web/theme.madsparrow.me/public_html/osty/wp-content/uploads/2025/04/demo-widgets-import-file_2025-04-03__07-16-29.json
+Customizer file = /home/admin/web/theme.madsparrow.me/public_html/osty/wp-content/uploads/2025/04/demo-customizer-import-file_2025-04-03__07-16-29.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+fanky_recent_widget_custom - No Title - Site does not support widget
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

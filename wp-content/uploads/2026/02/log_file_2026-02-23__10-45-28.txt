@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: Osty Demo Import were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://port.fitnessaider.ng
+Data file = /home/fitness4/port.fitnessaider.ng/wp-content/uploads/2026/02/demo-content-import-file_2026-02-23__10-45-28.xml
+Widget file = /home/fitness4/port.fitnessaider.ng/wp-content/uploads/2026/02/demo-widgets-import-file_2026-02-23__10-45-28.json
+Customizer file = /home/fitness4/port.fitnessaider.ng/wp-content/uploads/2026/02/demo-customizer-import-file_2026-02-23__10-45-28.dat
+Redux files:
+not defined!
